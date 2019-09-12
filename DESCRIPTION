@@ -1,15 +1,12 @@
-Package: TestLab3
+Package: errorCheck
 Type: Package
-Title: This is the lab practical 3
+Title: What the Package Does (Title Case)
 Version: 0.1.0
-Authors@R: c(
-    person("Hadley", "Wickham", email = "hadley@rstudio.com", role = "cre"),
-    person("Winston", "Chang", email = "winston@rstudio.com", role = "aut"))
+Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: PL-2
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
-Imports: 
 RoxygenNote: 6.1.1
