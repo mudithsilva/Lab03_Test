@@ -21,3 +21,11 @@ euclidean <- function(a, b) {
   }
   return(value_one)
 }
+
+# summary(euc_sample)
+# nrow(euc_sample)
+# ncol(euc_sample)
+# euc_sample[2,2]
+# euclidean(euc_sample[1,1], euc_sample[1,2])
+?euc_sample
+
